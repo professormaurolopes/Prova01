@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prova01</string>
+    <array name="Disciplinas">
+        <item>Programação para Dispositivos Móveis</item>
+        <item>Linguagem de Programação III</item>
+        <item>Sistemas Distribuídos</item>
+    </array>
+</resources>
